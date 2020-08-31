@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/qor/admin"
-	"github.com/qor/roles"
+	"github.com/conku/admin"
+	"github.com/conku/roles"
 )
 
 // Filebox is a based object contains download folder path and admin.Auth used to get current user

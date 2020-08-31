@@ -13,14 +13,14 @@ Scenario 2:
 
 * Restricting access to files within a folder, let's say `~/exchanges`, to Admin users.
 
-[![GoDoc](https://godoc.org/github.com/qor/filebox?status.svg)](https://godoc.org/github.com/qor/filebox)
+[![GoDoc](https://godoc.org/github.com/conku/filebox?status.svg)](https://godoc.org/github.com/conku/filebox)
 
 ## Usage
 
 ```go
 import (
-  "github.com/qor/filebox"
-  "github.com/qor/roles"
+  "github.com/conku/filebox"
+  "github.com/conku/roles"
   "net/http"
   "string"
 )

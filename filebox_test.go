@@ -11,11 +11,11 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/conku/admin"
+	"github.com/conku/filebox"
+	"github.com/conku/qor"
+	"github.com/conku/roles"
 	"github.com/fatih/color"
-	"github.com/qor/admin"
-	"github.com/qor/filebox"
-	"github.com/qor/qor"
-	"github.com/qor/roles"
 )
 
 var Filebox *filebox.Filebox

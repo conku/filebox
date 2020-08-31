@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/qor/admin"
-	"github.com/qor/qor"
-	"github.com/qor/roles"
+	"github.com/conku/admin"
+	"github.com/conku/qor"
+	"github.com/conku/roles"
 )
 
 // Download is a handler will return a specific file
